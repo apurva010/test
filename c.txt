@@ -1,2 +1,1 @@
-Hello This is file c for feature branch
-modified
+Hello this is file c for feature branch
